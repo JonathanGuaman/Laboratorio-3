@@ -30,6 +30,7 @@ Figura:3.1
 
 - Circuito en Tinkercad:
 
+![](https://github.com/JonathanGuaman/Laboratorio-3/blob/main/Diagramas/Diagrama%203.png)
 
 Figura: 3.2
 
@@ -40,23 +41,24 @@ Figura: 3.3
 
 - Amperimetro y voltimetro conectados, con la fuente de voltaje de 12v cortocircuitado:
 
+![](https://github.com/JonathanGuaman/Laboratorio-3/blob/main/Diagramas/Diagrama%205%20(Corto%20de%2012v).png)
+
 Figura: 3.4
 
 
 - Amperimetro y voltimetro conectados, con la fuente de voltaje de 20v cortocircuitado:
 
-
+![](https://github.com/JonathanGuaman/Laboratorio-3/blob/main/Diagramas/Diagrama%205%20(Corto%20de%2020v).png)
 
 Figura: 3.5
 
 
 ## 4.- LISTADO DE COMPONENTES:
 
+![](https://github.com/JonathanGuaman/Laboratorio-3/blob/main/Tablas/Tabla%201.png)
 
 Figura:4.1
 
-
-## 5.- EXPLICACION:
 
 
 ### 5.- EXPLICACION:
@@ -76,6 +78,8 @@ Figura:4.1
  -5 .2.2  Voltaje de Va y corriente de Ix cuando la fuente de 12v la cortocircuitamos:
  
 - Al  cambiar la fuente de 12v como una resistencia de 0ohm, cambia el resulyado del voltimetro Va y del amperimetro Ix, debido a que la otra fuente ya no genera potencial electrico.
+
+
 
 - 5.2.3 Voltaje Va y Corriente Ix cuando la fuente de 20v la cortocircuitamos:
 - La fuente de voltaje de 20v se convierte en una resistencia de 0ohm, por lo que el circuito se analiza sin fuente de voltaje, simulando que tiene un resultado parecido al analitico, solo que la polaridad del mismo debe cambiar por la fuente de alimentacion.
