@@ -58,8 +58,40 @@ Figura:4.1
 ## 5.- EXPLICACION:
 
 
-# 5.1 Procedimiento 
+### 5.- EXPLICACION:
 
+- Ingresamos a la plataforma de Tinkercad en la cual nos ayudara a realizar el simulador respectivo y armar el circuito del diagrama anterior.
+- Despues de armar el circuito del diagrama establecemos los voltajes antes de emplear el teorema anteriormente hablado.
+- Despues realizamos el cortocircuitado de la segunda fuente de voltaje para realizar el analisis respectivo con el teorema de superposicion.
+- Continuamos igualmente con la otra fuente de voltaje y realizamos calculos analiticos en la cual tendremos lo siguiente.
+
+
+### 5.2: Analisis del Teorema de Superposicion:
+
+- 5.2.1 Voltaje de Va y corriente de Ix:
+ 
+ -Para el analisis de la corriente y voltaje, se uso el teorema de superposicion y leyes de mallas, y de manera analitica, mientras que, tomando el valor de las resistencias, los resultados obtenidos estan expresados en la tabla 5.1 y la tabla 5.2. por lo que la variacion de voltaje con la practica y calculo no varian mucho.
+ 
+ -5 .2.2  Voltaje de Va y corriente de Ix cuando la fuente de 12v la cortocircuitamos:
+ 
+- Al  cambiar la fuente de 12v como una resistencia de 0ohm, cambia el resulyado del voltimetro Va y del amperimetro Ix, debido a que la otra fuente ya no genera potencial electrico.
+
+- 5.2.3 Voltaje Va y Corriente Ix cuando la fuente de 20v la cortocircuitamos:
+- La fuente de voltaje de 20v se convierte en una resistencia de 0ohm, por lo que el circuito se analiza sin fuente de voltaje, simulando que tiene un resultado parecido al analitico, solo que la polaridad del mismo debe cambiar por la fuente de alimentacion.
+
+
+
+##6.- COCLUSIONES:
+- Por lo tanto, el teorema de superposicion, se usa para circuitos lineales, que se compongan  de dos  o mas fuentes de alimentacion, ayudando la simplificacion de los calculos de los circuitos electricos.
+
+- Despues de haber hecho, las debidas mediciones, podemos tomar en cuenta que todos los calculos tomados anteriormente, son los mimso quen los calculos medidos, en ocasiones una pequeña variacion.
+
+## 7.- BIBLIOGRAFIA:
+
+![](http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf)
+
+ 
+ 
 
 
 
