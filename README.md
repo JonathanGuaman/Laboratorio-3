@@ -9,7 +9,16 @@
 ## Objetivo especifico:
  -Establcer los nuevos metodos de analisis de circuito con la ayuda del teorema de superposicion para solucionar problemas de circuitos electricos en la cual implica usar multiples fuentes de voltaje como de corriente.
  
-El eorema de superposicion de los emplea comunmente en los circuitos electricos lineales por lo cual nos ayuda a encontrar valores de tensiones, en un nodo establecido, comunmente se los realiza cuando tienen mas de una fuente independiente y el analisis sea un poco complicada encontrar sus voltajes y corrientes asi que se emplea a usar este teorema ya dicho anteriormente.
+
+## MARCO TEORICO:
+
+-  El teorema de superposicion es empleade para el analisis de los circuitos electricos en la cual su componentes con lineales, se los puede aplicar al analisis de los circuitos electricos que tengan complejidad en saber el comportamiento de los voltajes e  intensidades y en la cual emplearemos este teorema ya dicho.
+
+
+
+
+
+
 
 ## 3.- DIAGRAMA:
 - Modelo del circuito por calcular:
