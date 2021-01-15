@@ -102,7 +102,7 @@ Figura:4.1
 
 ## 7.- BIBLIOGRAFIA:
 
-![](http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf)
+![ ](http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf)
 
  
  
