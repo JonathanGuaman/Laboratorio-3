@@ -15,7 +15,7 @@
 -  El teorema de superposicion es empleade para el analisis de los circuitos electricos en la cual su componentes con lineales, se los puede aplicar al analisis de los circuitos electricos que tengan complejidad en saber el comportamiento de los voltajes e  intensidades y en la cual emplearemos este teorema ya dicho.
 
 
-
+![](https://github.com/JonathanGuaman/Laboratorio-3/blob/main/Diagramas/Marco%20teorico.png)
 
 
 
@@ -23,6 +23,7 @@
 ## 3.- DIAGRAMA:
 - Modelo del circuito por calcular:
 
+![](https://github.com/JonathanGuaman/Laboratorio-3/blob/main/Diagramas/Diagrama.png)
 
 Figura:3.1
 
