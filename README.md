@@ -36,6 +36,7 @@ Figura: 3.2
 
 - Amperimetro y Voltimetro Digital Conectado al circuito inicial:
 
+![](https://github.com/JonathanGuaman/Laboratorio-3/blob/main/Diagramas/Diagrama%204.png)
 
 Figura: 3.3
 
@@ -80,13 +81,15 @@ Figura:4.1
 - Al  cambiar la fuente de 12v como una resistencia de 0ohm, cambia el resulyado del voltimetro Va y del amperimetro Ix, debido a que la otra fuente ya no genera potencial electrico.
 
 
-
 - 5.2.3 Voltaje Va y Corriente Ix cuando la fuente de 20v la cortocircuitamos:
 - La fuente de voltaje de 20v se convierte en una resistencia de 0ohm, por lo que el circuito se analiza sin fuente de voltaje, simulando que tiene un resultado parecido al analitico, solo que la polaridad del mismo debe cambiar por la fuente de alimentacion.
 
+## MARGEN DE ERROR:
 
+![](https://github.com/JonathanGuaman/Laboratorio-3/blob/main/Tablas/Tabla%20de%20error.png)
 
 ##6.- COCLUSIONES:
+
 - Por lo tanto, el teorema de superposicion, se usa para circuitos lineales, que se compongan  de dos  o mas fuentes de alimentacion, ayudando la simplificacion de los calculos de los circuitos electricos.
 
 - Despues de haber hecho, las debidas mediciones, podemos tomar en cuenta que todos los calculos tomados anteriormente, son los mimso quen los calculos medidos, en ocasiones una pequeña variacion.
