@@ -70,6 +70,7 @@ Figura:4.1
 - Continuamos igualmente con la otra fuente de voltaje y realizamos calculos analiticos en la cual tendremos lo siguiente.
 
 
+
 ### 5.2: Analisis del Teorema de Superposicion:
 
 - 5.2.1 Voltaje de Va y corriente de Ix:
@@ -80,6 +81,11 @@ Figura:4.1
  
 - Al  cambiar la fuente de 12v como una resistencia de 0ohm, cambia el resulyado del voltimetro Va y del amperimetro Ix, debido a que la otra fuente ya no genera potencial electrico.
 
+### Tabla de Valores:
+
+![](https://github.com/JonathanGuaman/Laboratorio-3/blob/main/Tablas/Tabla%20%202.png)
+
+![](https://github.com/JonathanGuaman/Laboratorio-3/blob/main/Tablas/Tabla%204.png)
 
 - 5.2.3 Voltaje Va y Corriente Ix cuando la fuente de 20v la cortocircuitamos:
 - La fuente de voltaje de 20v se convierte en una resistencia de 0ohm, por lo que el circuito se analiza sin fuente de voltaje, simulando que tiene un resultado parecido al analitico, solo que la polaridad del mismo debe cambiar por la fuente de alimentacion.
